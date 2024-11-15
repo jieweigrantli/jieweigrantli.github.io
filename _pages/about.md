@@ -6,7 +6,7 @@ subtitle: Transportation, Energy System, and Carbon Emissions. #<a href='#'>Inst
 
 profile:
   align: right
-  image: Davis_Profile_Pic.jpg
+  image: profile_pic_grant.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>EV Research Center</p>

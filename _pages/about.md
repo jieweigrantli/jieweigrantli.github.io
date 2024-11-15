@@ -18,8 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I'm a Ph.D. student in Transportation Technology and Policy at University of California, Davis. I'm  supervised by [Dr. Alan Jenn](), EV Research Center, Institute of Transportation. My research lies in the intersection between transportation and energy systems
+Welcome! I'm a Ph.D. student in Transportation Technology and Policy at University of California, Davis. I'm  supervised by [Dr. Alan Jenn](https://www.alanjenn.com/) at [EV Research Center](https://ev.ucdavis.edu/), Institute of Transportation Studies. My research lies in the intersection between transportation and energy systems. I build models to quantify impacts of electric vehicles on power grid and the environment, and research on engineering and economic solutions to climate change in the EV era.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my Bachelor of Engineering and Master of Philosophy degrees from [HKUST](https://hkust.edu.hk/). In between, I worked in transportation, creative industries and NGOs. When I'm not working, I'm either swimming, traveling or couch potatoing with my cat.

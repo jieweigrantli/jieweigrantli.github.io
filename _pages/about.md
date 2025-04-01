@@ -20,4 +20,4 @@ social: true # includes social icons at the bottom of the page
 
 Welcome! I'm a Ph.D. student in Transportation Technology and Policy at University of California, Davis. I'm  supervised by [Dr. Alan Jenn](https://www.alanjenn.com/) at [EV Research Center](https://ev.ucdavis.edu/), Institute of Transportation Studies. My research lies in the intersection between transportation and energy systems. I build models to quantify impacts of electric vehicles on power grid and the environment, and research on engineering and economic solutions to climate change in the EV era.
 
-I received my Bachelor of Engineering and Master of Philosophy degrees from [HKUST](https://hkust.edu.hk/). In between, I worked in transportation, creative industries and NGOs. When I'm not working, I'm either swimming, traveling or couch potatoing with my cat.
+I received my Bachelor of Engineering and Master of Philosophy degrees from [HKUST](https://hkust.edu.hk/). In between, I worked in transportation, creative industries and NGOs. When I'm not working, I'm either swimming, on a road trip, or petting my cat Diaolong.
